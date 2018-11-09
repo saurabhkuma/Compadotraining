@@ -2,6 +2,8 @@
 Public Class CopadoTesting{
 
 public String testing ;
+//testing 
+public Boolean copado_sandbox;
 
 public String showStatus(){
 return testing;
